@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jorge Zurita Valdebenito
-- 📚 M.Sc - Electronics and Computer Technology @ Indiana State University / B.Sc - Automation and Controls Engineering - Universidad Tecnologica de Chile INACAP
 - 🌱 I’m currently an assistant professor at IvyTech Community College of Indiana. I teach Automation, Controls and Robotics.
+- 📚 M.Sc - Electronics and Computer Technology @ Indiana State University
+- 📚 B.Sc - Automation and Controls Engineering @ Universidad Tecnologica de Chile INACAP
 - 👀 Interested in Electrical/Controls Systems/Mechatronics Engineering, and Data Science.
 - 🧑🏻‍💻 C - JavaScript - Phyton - MATLAB - Arduino 
 - 📫 https://www.linkedin.com/in/jorge-zurita-valdebenito/
