@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jorge Zurita Valdebenito
 - 👀 I’m interested in Electrical/Controls Systems Engineering, and Data Science.
-- 🌱 I’m currently assistant professor at IvyTech Community College. I teach Automation and Controls.
-- 💞️ I’m looking to collaborate on
+- 🌱 I’m currently an assistant professor at IvyTech Community College. I teach Automation, Controls and Robotics.
 - 📫 https://www.linkedin.com/in/jorge-zurita-valdebenito/
 
 <!---
