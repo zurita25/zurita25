@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Jorge Zurita Valdebenito
-- 🌱 I’m currently an assistant professor at IvyTech Community College of Indiana. I teach Automation, Controls and Robotics.
+- 🌱 I’m currently an Visiting Assistant Crofessor at Purdue University - Polytechnic Insistute. 
+- 🌱 I teach Mechanical, Mechatronics/Robotics and Electrical Engineering Tech courses.
+- 📚 Ph.D student - Systems Engineering @ Capitol Technology University (Expected graduation 2026)
 - 📚 M.Sc - Electronics and Computer Technology @ Indiana State University
 - 📚 B.Sc - Automation and Controls Engineering @ Universidad Tecnologica de Chile INACAP
-- 👀 Interested in Electrical/Controls Systems/Mechatronics Engineering, and Data Science.
+- 👀 Interested in Electrical/Controls Systems/Mechatronics Engineering, ML, AI, and Data Science.
 - 🧑🏻‍💻 C - JavaScript - Phyton - MATLAB - Arduino 
 - 📫 https://www.linkedin.com/in/jorge-zurita-valdebenito/
 
