@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jorge Zurita Valdebenito
-- 🌱 I’m currently an Visiting Assistant Crofessor at Purdue University - Polytechnic Insistute. 
+- 🌱 I’m currently a Visiting Assistant Crofessor at Purdue University - Polytechnic Insistute. 
 - 🌱 I teach Mechanical, Mechatronics/Robotics and Electrical Engineering Tech courses.
 - 📚 Ph.D student - Systems Engineering @ Capitol Technology University (Expected graduation 2026)
 - 📚 M.Sc - Electronics and Computer Technology @ Indiana State University
